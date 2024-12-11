@@ -1,7 +1,8 @@
-﻿using Refit;
+﻿using QuestionProClient.Models;
+using Refit;
 using System.Threading.Tasks;
 
-namespace QuestionProSdk
+namespace QuestionProClient
 {
     public interface IQuestionProApi
     {
