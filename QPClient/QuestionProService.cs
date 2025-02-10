@@ -1,9 +1,10 @@
-﻿using Refit;
+﻿using QuestionProClient.Models;
+using Refit;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace QuestionProSdk
+namespace QuestionProClient
 {
     public class QuestionProService
     {

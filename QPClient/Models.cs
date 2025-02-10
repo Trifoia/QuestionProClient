@@ -1,4 +1,4 @@
-﻿namespace QuestionProSdk
+﻿namespace QuestionProClient.Models
 {
     public class Survey
     {
